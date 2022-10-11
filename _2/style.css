@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Italiana&family=Montserrat&family=Pacifico&family=Shrikhand&display=swap");
 
+* {
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
 .header {
   background-color: #fff;
   width: 100%;
