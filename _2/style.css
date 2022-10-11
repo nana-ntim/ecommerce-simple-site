@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Montserrat&family=Pacifico&family=Shrikhand&display=swap");
+
+.header {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 3px 18px 0 rgba(129, 162, 182, 0.2);
+}
+
+.header .logo {
+  font-family: "Italiana", cursive;
+  font-size: 35px;
+  font-weight: 900;
+  line-height: 0.8;
+}
+
